@@ -17,7 +17,7 @@ completion of voting.
 
 * Script was designed to cast votes in very low stakes online polls. It will 
 change ip-address and open and close new session of Firefox allowing deletion of 
-cookies with each vote.
+cookies with each vote. Script is not designed to evade any forms of captcha.
 
 * Currently set up to run in parallel across number of kernels defined by 
 Mathematica license.
